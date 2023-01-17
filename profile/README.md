@@ -95,12 +95,12 @@
 ### ♟️Member
 박지홍(팀장)|서예찬|정준교|최수용|
 :-:|:-:|:-:|:-:|
-<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|
+<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/33596116?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|<img src="https://avatars.githubusercontent.com/u/32133264?v=4" width="200">|
 [Github](https://github.com/LittleSamakFox)|[Github](https://github.com/SuhYC)|[Github](https://github.com/LittleSamakFox)|[Github](https://github.com/LittleSamakFox)
 
 ### ♟️Contribution
 - `박지홍` &nbsp; 입력하세요
-- `서예찬` &nbsp; 입력하세요
+- `서예찬` &nbsp; 시뮬레이션 이벤트 기획 및 개발
 - `정준교` &nbsp; 입력하세요
 - `최수용` &nbsp; 입력하세요
 
