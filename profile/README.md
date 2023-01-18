@@ -99,7 +99,7 @@
 [Github](https://github.com/jhpark1109)|[Github](https://github.com/SuhYC)|[Github](https://github.com/jgjung9)|[Github](https://github.com/Rogers099)
 
 ### ♟️Contribution
-- `박지홍` &nbsp; 입력하세요
+- `박지홍` &nbsp; 시스템 기능, UI 기획 및 개발
 - `서예찬` &nbsp; 시뮬레이션 이벤트 기획 및 개발
 - `정준교` &nbsp; 입력하세요
 - `최수용` &nbsp; 입력하세요
