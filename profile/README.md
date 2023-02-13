@@ -77,11 +77,11 @@
 
 
 
-**사용 기술 스택**
-프론트엔드 : C# (Unity)
-서버 연동 : Express.js
-데이터베이스 : MYSQL
-CI/CD : PlasticSCM
+**사용 기술 스택**<br/>
+프론트엔드 : C# (Unity)<br/>
+서버 연동 : Express.js<br/>
+데이터베이스 : MYSQL<br/>
+CI/CD : PlasticSCM<br/>
 
 **기대 효과 (AS-IS TO-BE)**
 
