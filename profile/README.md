@@ -73,8 +73,12 @@
 
 
 
-**프로젝트 전체 구상도**
+**프로젝트 전체 구상도** <br/>
+<img src="https://github.com/uos-cs-team-ace/.github/blob/main/profile/KakaoTalk_20230213_204725573.png" width="800"> <br/>
 
+<img src="https://github.com/uos-cs-team-ace/.github/blob/main/profile/KakaoTalk_20230213_204725573_01.png" width="800"> <br/>
+
+<img src="https://github.com/uos-cs-team-ace/.github/blob/main/profile/KakaoTalk_20230213_204725573_03.png" width="1000"> <br/>
 
 
 **사용 기술 스택**<br/>
