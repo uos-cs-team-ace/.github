@@ -85,7 +85,7 @@
 - 프론트엔드 : C# (Unity)<br/>
 - 서버 연동 : Express.js<br/>
 - 데이터베이스 : MYSQL<br/>
-- CI/CD : PlasticSCM<br/>
+- VCS : PlasticSCM<br/>
 
 **기대 효과 (AS-IS TO-BE)**
 
